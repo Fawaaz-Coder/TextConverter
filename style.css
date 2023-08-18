@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+nav {
+    background-color: black !important;
+    color: white !important;
+}
+
+#main-part {
+    overflow: hidden;
+    /* background: url(hero.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 664px !important;
+}
+
+#main-part h3 {
+    color: #f30000 !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem !important;
+}
+
+
+#linkedin-promo h2 {
+    color: #ff0000 !important;
+    text-shadow: 2px 4px 4px rgba(46, 91, 173, 0.6) !important;
+    font-family: cursive !important;
+}
